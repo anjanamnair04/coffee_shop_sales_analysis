@@ -1,4 +1,4 @@
-🚀 Sharing My Recent Power BI Project on Coffee Shop Sales Data ☕📊
+Sharing My Recent Power BI Project on Coffee Shop Sales Data ☕📊
 Working on this project was a wonderful experience where I had the opportunity to dive deeper into Power Query Editor for data cleaning and transformation, preparing the dataset for meaningful analysis.
 👉 The aim of the project was to uncover hidden insights such as the most popular products, customer preferences, sales trends by season and weekday, and performance across delivery modes.
 ✨ Key Insights from the Analysis:
